@@ -25,6 +25,7 @@ Effective planning: Break the project into smaller tasks and milestones using me
 Risk management: Identify potential risks early on and have mitigation strategies in place.
 Regular progress tracking: Use daily or weekly status reports, stand-up meetings, and project management tools (e.g., Jira, Trello) to monitor tasks and make adjustments.
 Prioritization: Focus on high-impact features first and delay less critical ones if needed.
+
 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Effective cost control ensures that the project stays within budget, optimizing resource use and preventing overspending, which can impact project viability and profitability.
 
@@ -35,6 +36,7 @@ Monitor costs regularly: Track actual spending against the budget at regular int
 Scope control: Prevent scope creep by sticking to the initial project scope and only allowing changes when absolutely necessary.
 Prioritize tasks: Focus on critical features first to ensure they are delivered within budget.
 Outsource or automate: Use outsourcing for non-core tasks or automation for repetitive tasks to save on development costs.
+
 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Waterfall is a traditional, linear, sequential approach, where each phase of the project is completed before moving to the next.
 Advantages:
@@ -60,6 +62,7 @@ Disadvantages:
 Requires more communication and collaboration.
 Potential for scope creep if not well-managed.
 Can be harder to predict timelines and costs.
+
 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Agile is beneficial for projects that have uncertain or evolving requirements, such as:
 Software development projects (e.g., mobile apps, web platforms) where requirements change frequently.
@@ -84,6 +87,7 @@ Importance of QA:
 Ensures the software meets the required functionality and performance standards.
 Reduces post-release bugs, saving time and money on future fixes.
 Improves customer satisfaction by delivering a reliable and user-friendly product.
+
 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 Defining the project scope is crucial for setting clear expectations, identifying deliverables, and ensuring that all stakeholders are aligned. It prevents scope creep and helps in resource allocation and scheduling.
 
@@ -93,6 +97,7 @@ Why WBS is useful:
 Provides a clear view of the project’s components.
 Helps in accurate time and cost estimation.
 Facilitates tracking progress by providing measurable work units.
+
 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 A detailed project schedule helps in organizing and prioritizing tasks, allocating resources, and monitoring progress.
 
@@ -106,6 +111,7 @@ How Gantt charts assist:
 Visualize project timelines and dependencies.
 Track progress by marking completed tasks.
 Aid in resource management and timeline adjustments.
+
 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 To answer this question, consider the problem statement your software aims to solve:
 
@@ -127,6 +133,7 @@ List key features that differentiate your product from competitors:
 User-friendly interface: Easy for non-technical users to navigate.
 Customization: Ability to adapt to the unique needs of different organizations.
 Real-time collaboration: Enables teams to work together in real-time, no matter where they are.
+
 12. What data is available regarding the market size and growth potential for your software?
 Market data helps you understand the potential for success. Look at:
 
